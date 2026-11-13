@@ -78,3 +78,6 @@ The development repository is private. Detailed technical documentation and proj
 **Interested in contributing or learning more?**
 
 Email Marguerite Apotre at hi@yoursweetspot.life 
+---
+One of the problem types that S.T.A.R.Tbox is being built to solve
+https://youtu.be/MNsA4ki00gc
